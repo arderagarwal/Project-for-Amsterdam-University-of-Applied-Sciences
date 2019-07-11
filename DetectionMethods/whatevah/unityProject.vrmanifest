@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.whatevah.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vrstudent\\Desktop\\DetectionMethods\\whatevah\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "whatevah [Testing]"
+        }
+      }
+    }
+  ]
+}
